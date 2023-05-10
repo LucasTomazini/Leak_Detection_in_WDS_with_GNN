@@ -9,7 +9,7 @@ Management of water resources has been one of the biggest concerns of the XXIst 
 
 ![WDN mapping] (https://github.com/LucasTomazini/Leak_Detection_in_WDS_with_GNN/blob/main/WDN_mapping.png)
 
-![Probability distribution outputed by Gated Graph Neural Network (GGNN)] (https://github.com/LucasTomazini/Leak_Detection_in_WDS_with_GNN/blob/main/Probability.png)
+![Probability distribution outputed by Gated Graph Neural Network (GGNN)] (Probability.png)
 
 
 ## Introduction
