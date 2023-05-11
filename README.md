@@ -12,9 +12,10 @@ Management of water resources has been one of the biggest concerns of the XXIst 
   <img src="/WDN_mapping.png" alt="WDN mapping" width="600" height="400">
 </p>
 
+<p align="center">
+  <img src="/Probability.png" alt="Probability distribution outputed by Gated Graph Neural Network (GGNN)" width="600" height="400">
+</p>
 
-![WDN mapping](/WDN_mapping.png)
-![Probability distribution outputed by Gated Graph Neural Network (GGNN)](/Probability.png)
 
 
 ## Introduction
