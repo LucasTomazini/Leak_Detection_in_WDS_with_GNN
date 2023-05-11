@@ -16,6 +16,10 @@ Management of water resources has been one of the biggest concerns of the XXIst 
 ![WDN mapping](/WDN_mapping.png) | WDN mapping |
 
 
+<figure>
+  <img src="/WDN_mapping.pn" alt="Texto Alternativo" width="300"/>
+  <figcaption>Legenda da Imagem</figcaption>
+</figure>
 
 
 
