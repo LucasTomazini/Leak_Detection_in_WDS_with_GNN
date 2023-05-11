@@ -9,7 +9,7 @@ Management of water resources has been one of the biggest concerns of the XXIst 
 
 
 <p align="center">
-  <img src="/WDN_mapping.png" alt="WDN mapping" width="300" height="200">
+  <img src="/WDN_mapping.png" alt="WDN mapping" width="600" height="400">
 </p>
 
 
