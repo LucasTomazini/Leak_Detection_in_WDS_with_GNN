@@ -13,6 +13,13 @@ Management of water resources has been one of the biggest concerns of the XXIst 
   <figcaption style="text-align: center;">WDN mapping</figcaption>
 </p>
 
+![WDN mapping](/WDN_mapping.png){: .center} | WDN mapping |
+
+
+
+
+
+
 <p align="center">
   <img src="/Probability.png" alt="Probability distribution outputed by Gated Graph Neural Network (GGNN)" width="600" height="400">
 </p>
