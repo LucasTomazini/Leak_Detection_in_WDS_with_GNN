@@ -7,6 +7,12 @@ This repository contains the code for the article titled "Leak Detection and Loc
 ## Abstract
 Management of water resources has been one of the biggest concerns of the XXIst Century, drawing the attention of global initiatives such as the Sustainable Development Objectives of the United Nations. This work approaches the problem of distributed monitoring of water distribution networks focusing on leakage detection and localization, using Gated Graph Neural Networks, which are Deep Learning algorithms capable of processing graph-structured data. Thus, the spatial displacement of the measurement points is also part of the calculations, alongside the measurement data itself. Software models of water distribution networks were implemented in a software environment for data collection in diverse operation scenarios, especially leakages in different locations. Two hypothetical water distribution networks were created for the study and evaluation of the algorithm’s capabilities. The results demonstrate that the graph-based approach is a viable methodology for the detection and location of water leakages, especially considering the restrictions of data transmission rates.
 
+
+<p align="center">
+  <img src="/WDN_mapping.png" alt="WDN mapping" width="300" height="200">
+</p>
+
+
 ![WDN mapping](/WDN_mapping.png)
 ![Probability distribution outputed by Gated Graph Neural Network (GGNN)](/Probability.png)
 
