@@ -17,10 +17,13 @@ Management of water resources has been one of the biggest concerns of the XXIst 
 
 
 <figure>
-  <img src="/WDN_mapping.pn" alt="Texto Alternativo" width="300"/>
-  <figcaption>Legenda da Imagem</figcaption>
+  <img src="/WDN_mapping.png" alt="Texto Alternativo" width="300"/>
+  <figcaption class="image-caption">Legenda da Imagem</figcaption>
 </figure>
 
+.image-caption {
+  text-align: center;
+}
 
 
 
